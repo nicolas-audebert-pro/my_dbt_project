@@ -1,8 +1,8 @@
 version: 2
 
 sources:
-  - name: googles_analytics_4
-    schema: google_analytics_4
+  - name: module_2_ae
+    schema: module_2_ae
     tables:
       - name: events_20210131
       
